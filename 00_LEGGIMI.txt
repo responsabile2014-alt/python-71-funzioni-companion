@@ -1,0 +1,71 @@
+PYTHON: 71 FUNZIONI DA CAPIRE E USARE
+Collana Python & Colab - Vol. 2
+
+COMPANION PACK
+Versione: Companion Pack 1.0
+Data di preparazione: 12/08/2026
+
+BASELINE EDITORIALE
+Il libro e il materiale di questo pacchetto sono stati verificati con riferimento a Python 3.14.7.
+La versione realmente disponibile in Google Colab o in un altro ambiente può essere diversa
+e può cambiare nel tempo. All'inizio di ogni notebook trovi una cella che mostra la versione
+effettivamente in uso:
+
+    import sys
+    print(sys.version)
+
+CHE COSA CONTIENE IL PACCHETTO
+
+1) 01_71_FUNZIONI_GOOGLE_COLAB.ipynb
+   Il notebook delle 71 voci, nello stesso ordine alfabetico del libro, da abs() a __import__().
+   Per ogni voce trovi: un rimando alla scheda del libro, una domanda di previsione,
+   l'esempio principale da eseguire, l'output atteso, una piccola modifica da provare
+   e una cella libera in cui fare la tua prova.
+
+2) 02_LABORATORIO_FINALE.ipynb
+   Le 10 sfide del Laboratorio finale. Per ogni laboratorio trovi scenario, funzioni allenate,
+   la sfida, una cella PROVA TU separata, l'output atteso, la soluzione e una variazione da provare.
+   La soluzione non si trova mai nella stessa cella in cui provi l'esercizio.
+
+3) 03_RIPASSO_PER_FAMIGLIE.ipynb
+   Le stesse 71 voci raggruppate nelle otto famiglie della Mappa del libro,
+   con 3 esercizi per famiglia (24 esercizi in totale).
+
+CARTELLE
+
+PYTHON_FILES/
+   71 file .py, uno per ogni voce del libro, numerati nello stesso ordine
+   (da 01_abs.py a 71___import__.py). Contengono l'esempio principale della scheda,
+   utile a chi preferisce eseguire Python sul proprio computer invece di usare un notebook.
+
+LABORATORI/
+   10 file .py con le soluzioni dei laboratori finali
+   (da laboratorio_01.py a laboratorio_10.py).
+
+AGGIORNAMENTI.txt
+   Spazio per annotare eventuali aggiornamenti tecnici del volume.
+
+COME APRIRE UN NOTEBOOK IN GOOGLE COLAB
+
+- apri Google Colab;
+- scegli File;
+- scegli Carica notebook;
+- seleziona il file .ipynb che vuoi aprire.
+
+COME ESEGUIRE I FILE .PY
+
+Sul tuo computer, dal terminale, spostati nella cartella e scrivi:
+
+    python nome_del_file.py
+
+ALCUNE AVVERTENZE
+
+- Il file 09_breakpoint.py apre il debugger e ferma l'esecuzione: eseguilo soltanto se vuoi provarlo.
+- Il file 35_input.py richiede un dato digitato da tastiera.
+- Gli esempi che creano file lavorano soltanto su file di esempio creati dal programma stesso,
+  nella cartella di lavoro corrente. In Google Colab i file della sessione sono temporanei.
+- Negli esempi con eval(), exec(), compile() e __import__() usa esclusivamente valori
+  scritti e controllati da te. Non eseguire mai testo proveniente dall'esterno.
+
+Il libro contiene le spiegazioni complete. Questi materiali servono per eseguire, modificare
+e sperimentare il codice.

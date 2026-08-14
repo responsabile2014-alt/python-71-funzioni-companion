@@ -1,0 +1,22 @@
+PYTHON: 71 FUNZIONI DA CAPIRE E USARE
+Aggiornamenti tecnici del Companion Pack
+
+Edizione del libro:
+2026
+
+Baseline tecnica:
+Python 3.14.7
+
+Stato iniziale:
+Nessun aggiornamento tecnico aggiuntivo rispetto alla prima edizione.
+
+------------------------------------------------------------
+MODELLO PER AGGIORNAMENTI FUTURI
+------------------------------------------------------------
+
+DATA:
+VERSIONE PYTHON:
+VOCE INTERESSATA:
+CHE COSA È CAMBIATO:
+IMPATTO SUL LIBRO:
+ESEMPIO AGGIORNATO:
