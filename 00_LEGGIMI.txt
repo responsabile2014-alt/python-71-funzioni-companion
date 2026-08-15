@@ -2,8 +2,8 @@ PYTHON: 71 FUNZIONI DA CAPIRE E USARE
 Collana Python & Colab - Vol. 2
 
 COMPANION PACK
-Versione: Companion Pack 1.0
-Data di preparazione: 12/08/2026
+Versione: Companion Pack 1.2
+Data di preparazione: 15/08/2026
 
 BASELINE EDITORIALE
 Il libro e il materiale di questo pacchetto sono stati verificati con riferimento a Python 3.14.7.
